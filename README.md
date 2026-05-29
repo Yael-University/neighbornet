@@ -19,29 +19,6 @@ NeighborNet is a mobile-first social platform designed to:
 
 **Note:** This was a collaborative group project for Intro to Software Engineering. This repository represents the final production-ready version with contributions from the entire team.
 
----
-
-## Team Contributions
-
-**Development Team (6 members):**
-
-- **Brian Peredez** - Main backend/database architect
-- **Aidan Adame** - Frontend lead, incremental backend contributions
-- **Yael Mendez** - Co-developed frontend and backend (significant backend work)
-- **Jonathan Galvan** - Frontend contributions
-- **Emerald Landry** - Frontend contributions and design documentation
-- **Alawia Elgizouli** - Pre-development design documentation
-
-**My Contributions (Yael Mendez):**
-- Backend API development (authentication, messaging, notifications systems)
-- Database schema design and optimization
-- Real-time features implementation (Socket.io integration)
-- Frontend components for messaging and event management
-- API testing and debugging
-- Production deployment assistance
-
----
-
 ## Key Features
 
 ### Social Networking
